@@ -1,0 +1,11 @@
+.ipynb_checkpoints/
+.virtual_documents/
+.vscode
+*.csv
+*.npy
+*.html
+*.txt
+*.ckpt
+
+NLP数据集合/
+
