@@ -5,6 +5,7 @@ git commit -m "Initial commit"
 git remote add origin https://github.com/YiyaoZhang9527/ML_Example.git
 git push -u origin master
 
+git config --global core.excludesfile .gitignore
 
 # git rm -r --cached .
 # rm .git/index
